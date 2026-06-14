@@ -233,8 +233,8 @@ B.Tech Computer Science Engineering (AI & ML)
 
 ### Connect With Me
 
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-profile
+- **GitHub:** https://github.com/shreyas2007-goyal
+- **LinkedIn:** https://www.linkedin.com/in/shreyas-goyalofficial/
 - **Portfolio:** IN Progress
 
 ---
